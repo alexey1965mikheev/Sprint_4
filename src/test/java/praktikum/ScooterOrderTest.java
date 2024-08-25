@@ -1,6 +1,5 @@
 package praktikum;
 
-import org.junit.ClassRule;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.runner.RunWith;

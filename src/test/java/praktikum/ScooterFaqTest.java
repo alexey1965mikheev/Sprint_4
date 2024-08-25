@@ -6,10 +6,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import praktikum.pages.MainPage;
-import praktikum.pages.OrderPage;
-
 import static org.junit.Assert.assertEquals;
-
 
 @RunWith(Parameterized.class)
 public class ScooterFaqTest {

@@ -7,8 +7,6 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
-
-import static praktikum.EnvConfig.EXPLICIT_WAIT;
 import static praktikum.EnvConfig.IMPLICIT_WAIT;
 
 public class OrderPage {
